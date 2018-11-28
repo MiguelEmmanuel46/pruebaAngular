@@ -1,0 +1,11 @@
+.contenedor{
+    position: relative;
+    width: 50%;
+    left: 25%;
+    height: auto;
+    border-radius: 100%;
+    border:1px solid #000FF9;
+    padding: 2%;
+    text-align: center;
+    background-color: rgba(255,0,0,0.5);
+}
